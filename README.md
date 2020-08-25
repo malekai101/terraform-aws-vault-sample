@@ -1,0 +1,1 @@
+This is a sample module for installing a vault ami.
